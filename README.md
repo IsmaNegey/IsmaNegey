@@ -1,12 +1,8 @@
-**I’m (I)SmileFace**
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi ! My name is Abdulaev Ismael, but you can call me **Isma**.
 
-<!---
-IsmaNegey/IsmaNegey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Nalchzik / Nizhniy Novgorod :+1: 
+---
+I love shawarma in Lvovka st.
+
+
+![image](https://github.com/user-attachments/assets/f03781b2-47ac-4321-aad5-be98784506da)
